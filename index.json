@@ -4,7 +4,7 @@
   "operator": "StreamNook",
   "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
   "previous_operator_pubkeys": [],
-  "generated_at": "2026-06-11T20:35:01Z",
+  "generated_at": "2026-06-11T20:58:41Z",
   "plugins": [
     {
       "id": "community.drops-farmer",
@@ -18,8 +18,7 @@
       "author": {
         "name": "StreamNook",
         "pubkey": "RWTaM2XIUzmL/AR9Ni0vr5j7eFoF3y+nlh3r3amS2K0l8i8gekYgSdca",
-        "previous_pubkeys": [],
-        "verified": true
+        "previous_pubkeys": []
       },
       "artifact": {
         "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.1.0/community.drops-farmer-0.1.0.zip",
@@ -30,7 +29,8 @@
       "icon_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/icon.png",
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
-      "updated_at": "2026-06-11T20:35:01Z"
+      "updated_at": "2026-06-11T20:58:41Z",
+      "official": true
     }
   ]
 }
