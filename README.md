@@ -1,6 +1,6 @@
 # StreamNook Plugins
 
-The community plugin index for [StreamNook](https://github.com/StreamNook). Plugins are opt-in add-ons that live outside the core app, so the app stays lean and you run only the ones you want.
+The community plugin index for [StreamNook](https://github.com/StreamNook). Add it as a source and the app reads it directly, so approved plugins show up in the marketplace ready to install.
 
 ## Add this source
 
