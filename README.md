@@ -14,9 +14,13 @@ The app pins this index's signing key the first time you add it and shows you it
 
 ## How it works
 
-- The index (`index.json`) is signed; each plugin's downloadable file is signed by its author. The app verifies both signatures and the file's checksum before installing.
-- Plugin files are attached to this repository's [Releases](https://github.com/StreamNook/streamnook-plugins/releases). The index points at them.
+- The index (`index.json`) is signed by StreamNook; each plugin's downloadable file is signed by its author. The app verifies both signatures and the file's checksum before installing.
+- First-party plugin files are attached to this repository's [Releases](https://github.com/StreamNook/streamnook-plugins/releases); third-party authors host their own. The index points at whichever by URL and checksum.
 - Each plugin's detail page in the app is rendered from its `README.md` under `plugins/`.
+
+## Publishing a plugin
+
+Anyone can submit a plugin by pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full process: build a signed package per platform, host it, add your entry to `index.json`, and open a PR. The maintainers review the manifest and capabilities, then re-sign and merge.
 
 ## Available plugins
 
