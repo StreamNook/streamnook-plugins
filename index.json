@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "name": "StreamNook Plugins",
+  "operator": "StreamNook",
+  "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
+  "previous_operator_pubkeys": [],
+  "generated_at": "2026-06-11T20:35:01Z",
+  "plugins": [
+    {
+      "id": "community.drops-farmer",
+      "name": "Drops and Points Farmer",
+      "version": "0.1.0",
+      "tier": "C",
+      "description": "Background channel-points farming and drops mining, kept out of the core app as an opt-in add-on.",
+      "homepage": "https://github.com/StreamNook/streamnook-plugins",
+      "host_min": "7.0.0",
+      "released_at": "2026-06-11T20:35:01Z",
+      "author": {
+        "name": "StreamNook",
+        "pubkey": "RWTaM2XIUzmL/AR9Ni0vr5j7eFoF3y+nlh3r3amS2K0l8i8gekYgSdca",
+        "previous_pubkeys": [],
+        "verified": true
+      },
+      "artifact": {
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.1.0/community.drops-farmer-0.1.0.zip",
+        "sha256": "8023834e278a2c8eec0af19e60d3adb2c2687e438a5468744a30c693e1b50f12",
+        "size": 1012272,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.1.0/community.drops-farmer-0.1.0.zip.minisig"
+      },
+      "icon_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
+      "created_at": "2026-06-11T20:35:01Z",
+      "updated_at": "2026-06-11T20:35:01Z"
+    }
+  ]
+}
