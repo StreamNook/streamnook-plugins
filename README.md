@@ -22,7 +22,7 @@ The app pins this index's signing key the first time you add it and shows you it
 
 | Plugin | Tier | What it does |
 |---|---|---|
-| [Drops and Points Farmer](plugins/drops-farmer/README.md) | Advanced | Mines drops and farms channel points in the background. |
+| [Autopilot](plugins/drops-farmer/README.md) | Advanced | Earn Twitch drops and channel points in the background. |
 
 ## Tiers
 

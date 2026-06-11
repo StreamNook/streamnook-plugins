@@ -4,14 +4,14 @@
   "operator": "StreamNook",
   "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
   "previous_operator_pubkeys": [],
-  "generated_at": "2026-06-11T20:58:41Z",
+  "generated_at": "2026-06-11T22:13:25Z",
   "plugins": [
     {
       "id": "community.drops-farmer",
-      "name": "Drops and Points Farmer",
+      "name": "Autopilot",
       "version": "0.1.0",
       "tier": "C",
-      "description": "Background channel-points farming and drops mining, kept out of the core app as an opt-in add-on.",
+      "description": "Earn Twitch drops and channel points in the background, without keeping a stream open.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.0.0",
       "released_at": "2026-06-11T20:35:01Z",
@@ -22,14 +22,14 @@
       },
       "artifact": {
         "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.1.0/community.drops-farmer-0.1.0.zip",
-        "sha256": "8023834e278a2c8eec0af19e60d3adb2c2687e438a5468744a30c693e1b50f12",
-        "size": 1012272,
+        "sha256": "42f6c11a85a5bf5212e1af2b2f7af9cf5a01efe74ed7399c7c090515fb7ce59f",
+        "size": 1012261,
         "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.1.0/community.drops-farmer-0.1.0.zip.minisig"
       },
       "icon_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/icon.png",
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
-      "updated_at": "2026-06-11T20:58:41Z",
+      "updated_at": "2026-06-11T22:13:25Z",
       "official": true
     }
   ]
