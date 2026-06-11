@@ -4,7 +4,7 @@
   "operator": "StreamNook",
   "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
   "previous_operator_pubkeys": [],
-  "generated_at": "2026-06-11T22:13:25Z",
+  "generated_at": "2026-06-11T23:18:37Z",
   "plugins": [
     {
       "id": "community.drops-farmer",
@@ -30,6 +30,31 @@
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
       "updated_at": "2026-06-11T22:13:25Z",
+      "official": true
+    },
+    {
+      "id": "app.streamnook.lists",
+      "name": "Lists",
+      "version": "1.0.0",
+      "tier": "A",
+      "description": "Keep reference lists at hand while you watch: usernames, commands, titles. Floating panel, popout window, mod-logs dock, command palette, and a bindable hotkey.",
+      "homepage": "https://github.com/StreamNook/streamnook-plugins",
+      "host_min": "7.8.6",
+      "released_at": "2026-06-11T23:18:37Z",
+      "author": {
+        "name": "StreamNook",
+        "pubkey": "RWTaM2XIUzmL/AR9Ni0vr5j7eFoF3y+nlh3r3amS2K0l8i8gekYgSdca",
+        "previous_pubkeys": []
+      },
+      "artifact": {
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.0/app.streamnook.lists-1.0.0.zip",
+        "sha256": "96ee02d4d468594b3bd0591ca811ef88ed44bf0aba31259899ecd64a1a6ca01d",
+        "size": 12484,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.0/app.streamnook.lists-1.0.0.zip.minisig"
+      },
+      "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/lists/README.md",
+      "created_at": "2026-06-11T23:18:37Z",
+      "updated_at": "2026-06-11T23:18:37Z",
       "official": true
     }
   ]
