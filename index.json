@@ -4,7 +4,7 @@
   "operator": "StreamNook",
   "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
   "previous_operator_pubkeys": [],
-  "generated_at": "2026-06-12T01:53:23Z",
+  "generated_at": "2026-06-12T03:45:23Z",
   "plugins": [
     {
       "id": "community.drops-farmer",
@@ -60,26 +60,26 @@
     {
       "id": "community.ad-bypass",
       "name": "Ad-Free Playback",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "tier": "C",
-      "description": "Resolves live streams through community playlist proxies for ad-free viewing.",
+      "description": "Resolves live streams through community playlist proxies for ad-free viewing, with a built-in proxy health checker.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
-      "host_min": "7.0.0",
-      "released_at": "2026-06-12T01:44:09Z",
+      "host_min": "7.8.6",
+      "released_at": "2026-06-12T03:45:23Z",
       "author": {
         "name": "community",
         "pubkey": "RWTwrWNuOdC0JCx8Adg29yeoFma98h3YQwjqTydbPLvIgRfchr7t2XsX",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.1.0/community.ad-bypass-0.1.0.zip",
-        "sha256": "8d3e3a2437ab9620420a146f77543ee9d935b8b13c9b5678fa85e8f76547f8d6",
-        "size": 1044579,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.1.0/community.ad-bypass-0.1.0.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.2.0/community.ad-bypass-0.2.0.zip",
+        "sha256": "5b1ffa8e90e8370ac3810f54d7fae5f5887f5fd337f71f6313d755cdd67822ca",
+        "size": 1074756,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.2.0/community.ad-bypass-0.2.0.zip.minisig"
       },
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/ad-bypass/README.md",
       "created_at": "2026-06-12T01:44:09Z",
-      "updated_at": "2026-06-12T01:53:23Z",
+      "updated_at": "2026-06-12T03:45:23Z",
       "official": false
     }
   ]
