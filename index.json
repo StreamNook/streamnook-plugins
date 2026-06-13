@@ -60,26 +60,26 @@
     {
       "id": "community.ad-bypass",
       "name": "Ad-Free Playback",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "tier": "C",
       "description": "Resolves live streams through community playlist proxies for ad-free viewing, with a built-in proxy health checker.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.8.6",
-      "released_at": "2026-06-12T03:45:23Z",
+      "released_at": "2026-06-13T17:54:49Z",
       "author": {
         "name": "community",
         "pubkey": "RWTwrWNuOdC0JCx8Adg29yeoFma98h3YQwjqTydbPLvIgRfchr7t2XsX",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.2.0/community.ad-bypass-0.2.0.zip",
-        "sha256": "5b1ffa8e90e8370ac3810f54d7fae5f5887f5fd337f71f6313d755cdd67822ca",
-        "size": 1074756,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.2.0/community.ad-bypass-0.2.0.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.2.1/community.ad-bypass-0.2.1.zip",
+        "sha256": "ed6621fd417dd2731631b00d7847175210f9acb2385e4eab55239045b88d7f48",
+        "size": 1074620,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.2.1/community.ad-bypass-0.2.1.zip.minisig"
       },
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/ad-bypass/README.md",
       "created_at": "2026-06-12T01:44:09Z",
-      "updated_at": "2026-06-12T03:45:23Z",
+      "updated_at": "2026-06-13T17:54:49Z",
       "official": false
     }
   ]
