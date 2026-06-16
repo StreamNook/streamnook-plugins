@@ -4,7 +4,7 @@
   "operator": "StreamNook",
   "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
   "previous_operator_pubkeys": [],
-  "generated_at": "2026-06-12T03:45:23Z",
+  "generated_at": "2026-06-16T01:14:02Z",
   "plugins": [
     {
       "id": "community.drops-farmer",
@@ -60,26 +60,26 @@
     {
       "id": "community.ad-bypass",
       "name": "Ad-Free Playback",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "tier": "C",
       "description": "Resolves live streams through community playlist proxies for ad-free viewing, filtering leaked ads through its own relay and restoring 1440p+ tiers, with a built-in proxy health checker.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.8.6",
-      "released_at": "2026-06-14T06:35:09Z",
+      "released_at": "2026-06-16T01:14:02Z",
       "author": {
         "name": "community",
         "pubkey": "RWTwrWNuOdC0JCx8Adg29yeoFma98h3YQwjqTydbPLvIgRfchr7t2XsX",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.0/community.ad-bypass-0.3.0.zip",
-        "sha256": "7808804021746645b1d0509b20086b81e2835388dd35ddf20febe79291e85ea5",
-        "size": 1156382,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.0/community.ad-bypass-0.3.0.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.1/community.ad-bypass-0.3.1.zip",
+        "sha256": "015bc6f398d06f99f9e2b9d536b62a428b63b6cc787a22af26c19a304822a619",
+        "size": 1157875,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.1/community.ad-bypass-0.3.1.zip.minisig"
       },
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/ad-bypass/README.md",
       "created_at": "2026-06-12T01:44:09Z",
-      "updated_at": "2026-06-14T06:35:09Z",
+      "updated_at": "2026-06-16T01:14:02Z",
       "official": false
     }
   ]
