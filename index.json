@@ -4,32 +4,32 @@
   "operator": "StreamNook",
   "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
   "previous_operator_pubkeys": [],
-  "generated_at": "2026-06-16T01:14:02Z",
+  "generated_at": "2026-06-21T19:31:19Z",
   "plugins": [
     {
       "id": "community.drops-farmer",
       "name": "Autopilot",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "tier": "C",
       "description": "Earn Twitch drops and channel points in the background, without keeping a stream open.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.8.6",
-      "released_at": "2026-06-14T15:27:19Z",
+      "released_at": "2026-06-21T19:31:19Z",
       "author": {
         "name": "StreamNook",
         "pubkey": "RWTaM2XIUzmL/AR9Ni0vr5j7eFoF3y+nlh3r3amS2K0l8i8gekYgSdca",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.0/community.drops-farmer-0.4.0.zip",
-        "sha256": "6a5e861d2b562520fd5ab05a68acb097b3394cde8acc6337eb17f639e5ef4a17",
-        "size": 1016816,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.0/community.drops-farmer-0.4.0.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.1/community.drops-farmer-0.4.1.zip",
+        "sha256": "c50ff5503302de352c54950a45abea69db0511beb6eedb40649b9490db0fd93a",
+        "size": 1033226,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.1/community.drops-farmer-0.4.1.zip.minisig"
       },
       "icon_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/icon.png",
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
-      "updated_at": "2026-06-14T15:27:19Z",
+      "updated_at": "2026-06-21T19:31:19Z",
       "official": true
     },
     {
@@ -60,26 +60,26 @@
     {
       "id": "community.ad-bypass",
       "name": "Ad-Free Playback",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "tier": "C",
       "description": "Resolves live streams through community playlist proxies for ad-free viewing, filtering leaked ads through its own relay and restoring 1440p+ tiers, with a built-in proxy health checker.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.8.6",
-      "released_at": "2026-06-16T01:14:02Z",
+      "released_at": "2026-06-21T19:31:19Z",
       "author": {
         "name": "community",
         "pubkey": "RWTwrWNuOdC0JCx8Adg29yeoFma98h3YQwjqTydbPLvIgRfchr7t2XsX",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.1/community.ad-bypass-0.3.1.zip",
-        "sha256": "015bc6f398d06f99f9e2b9d536b62a428b63b6cc787a22af26c19a304822a619",
-        "size": 1157875,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.1/community.ad-bypass-0.3.1.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2.zip",
+        "sha256": "e323031e2955afa803f4b545b4a1e6855e81790badb53c09fdb687c8dccf8bfb",
+        "size": 1157592,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2.zip.minisig"
       },
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/ad-bypass/README.md",
       "created_at": "2026-06-12T01:44:09Z",
-      "updated_at": "2026-06-16T01:14:02Z",
+      "updated_at": "2026-06-21T19:31:19Z",
       "official": false
     }
   ]
