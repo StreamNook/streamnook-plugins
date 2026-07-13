@@ -9,27 +9,27 @@
     {
       "id": "community.drops-farmer",
       "name": "Autopilot",
-      "version": "0.4.5",
+      "version": "0.4.6",
       "tier": "C",
       "description": "Earn Twitch drops and channel points in the background, without keeping a stream open.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.8.6",
-      "released_at": "2026-07-11T02:27:12Z",
+      "released_at": "2026-07-13T05:06:16Z",
       "author": {
         "name": "StreamNook",
         "pubkey": "RWTaM2XIUzmL/AR9Ni0vr5j7eFoF3y+nlh3r3amS2K0l8i8gekYgSdca",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.5/community.drops-farmer-0.4.5.zip",
-        "sha256": "45339b6bfb2a74f8d9db146425c3ccf975822e95bc1ac9f682e7f65bce65a063",
-        "size": 1048587,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.5/community.drops-farmer-0.4.5.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.6/community.drops-farmer-0.4.6.zip",
+        "sha256": "c4e11b1b5a28d6c9d28b0520f724ad8d9c83c32b18a6b9ab0837f5dfc3580eb7",
+        "size": 1050550,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.6/community.drops-farmer-0.4.6.zip.minisig"
       },
       "icon_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/icon.png",
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
-      "updated_at": "2026-07-11T02:27:12Z",
+      "updated_at": "2026-07-13T05:06:16Z",
       "official": true
     },
     {
