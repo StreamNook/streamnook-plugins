@@ -1,10 +1,10 @@
 # Ad-Free Playback
 
-A StreamNook plugin that resolves live streams through community playlist proxies so they play without stitched ads. It runs as a separate program that StreamNook starts and talks to, and it ships its own in-app settings panel (a hybrid plugin: a sidecar plus a native UI module).
+A StreamNook plugin that resolves live streams through community playlist proxies. It runs as a separate program that StreamNook starts and talks to, and it ships its own in-app settings panel (a hybrid plugin: a sidecar plus a native UI module).
 
 ## What it does
 
-Streams you are already entitled to watch ad-free (Twitch Turbo, or a subscription to that channel) play directly and never touch this plugin. For everything else:
+Streams you are already entitled to watch without proxying (Twitch Turbo, or a subscription to that channel) play directly and never touch this plugin. For everything else:
 
 - When you start a stream, StreamNook invokes this plugin's `playback.resolve` hook. The plugin races a pool of community playlist proxies in its own process, over its own networking, and answers with the winning master playlist for the app's relay to serve.
 - Anonymous proxy masters top out at 1080p, so when you are signed in the plugin merges the 1440p+ tiers from your own master back in (the splice).

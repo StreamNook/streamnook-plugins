@@ -26,7 +26,7 @@ Anyone can submit a plugin by pull request. See [CONTRIBUTING.md](CONTRIBUTING.m
 
 | Plugin | Tier | What it does |
 |---|---|---|
-| [Autopilot](plugins/drops-farmer/README.md) | Advanced | Earn Twitch drops and channel points in the background. |
+| [Autopilot](plugins/drops-farmer/README.md) | Advanced | Tracks drops and channel-point progress in the background. |
 
 ## Tiers
 
