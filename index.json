@@ -9,27 +9,27 @@
     {
       "id": "community.drops-farmer",
       "name": "Autopilot",
-      "version": "0.4.7",
+      "version": "0.4.8",
       "tier": "C",
       "description": "Tracks drops and channel-point progress on your followed channels in the background.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.8.6",
-      "released_at": "2026-09-01T16:44:20Z",
+      "released_at": "2026-09-04T20:48:12Z",
       "author": {
         "name": "StreamNook",
         "pubkey": "RWTaM2XIUzmL/AR9Ni0vr5j7eFoF3y+nlh3r3amS2K0l8i8gekYgSdca",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.7/community.drops-farmer-0.4.7.zip",
-        "sha256": "e29ec0315cf4512cc351689acf9e9626fe6bbeb5db6ade9dcbdbf7027ee2b361",
-        "size": 1047777,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.7/community.drops-farmer-0.4.7.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8.zip",
+        "sha256": "7d068c55f003c1a412aef1bfa87d5581f53074b2cd536201cb20b6c1da95bb7c",
+        "size": 1050314,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8.zip.minisig"
       },
       "icon_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/icon.png",
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
-      "updated_at": "2026-09-01T16:44:20Z",
+      "updated_at": "2026-09-04T20:48:12Z",
       "official": true
     },
     {
