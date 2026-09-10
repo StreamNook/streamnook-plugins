@@ -30,7 +30,27 @@
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
       "updated_at": "2026-09-04T20:48:12Z",
-      "official": true
+      "official": true,
+      "platforms": {
+        "windows-x86_64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8.zip",
+          "sha256": "7d068c55f003c1a412aef1bfa87d5581f53074b2cd536201cb20b6c1da95bb7c",
+          "size": 1050314,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8.zip.minisig"
+        },
+        "macos-aarch64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8-macos-aarch64.zip",
+          "sha256": "bd0e2fd6d0115639f34849f288dc25d51d6254cfec5ffb33cf52ab1350945f37",
+          "size": 1912744,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8-macos-aarch64.zip.minisig"
+        },
+        "macos-x86_64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8-macos-aarch64.zip",
+          "sha256": "bd0e2fd6d0115639f34849f288dc25d51d6254cfec5ffb33cf52ab1350945f37",
+          "size": 1912744,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.4.8/community.drops-farmer-0.4.8-macos-aarch64.zip.minisig"
+        }
+      }
     },
     {
       "id": "app.streamnook.lists",
@@ -55,7 +75,27 @@
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/lists/README.md",
       "created_at": "2026-06-11T23:18:37Z",
       "updated_at": "2026-06-12T00:04:58Z",
-      "official": true
+      "official": true,
+      "platforms": {
+        "windows-x86_64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.1/app.streamnook.lists-1.0.1.zip",
+          "sha256": "cc21f6c2f1da54a8995c2a609c422c6b3f1239dc57b1b96230738441337161fa",
+          "size": 12497,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.1/app.streamnook.lists-1.0.1.zip.minisig"
+        },
+        "macos-aarch64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.1/app.streamnook.lists-1.0.1-macos-aarch64.zip",
+          "sha256": "a097daf0a70eb677d516d6a5f9f1a7941dccd391b45c75f73949d786c6fcd935",
+          "size": 13603,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.1/app.streamnook.lists-1.0.1-macos-aarch64.zip.minisig"
+        },
+        "macos-x86_64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.1/app.streamnook.lists-1.0.1-macos-aarch64.zip",
+          "sha256": "a097daf0a70eb677d516d6a5f9f1a7941dccd391b45c75f73949d786c6fcd935",
+          "size": 13603,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/lists-v1.0.1/app.streamnook.lists-1.0.1-macos-aarch64.zip.minisig"
+        }
+      }
     },
     {
       "id": "community.ad-bypass",
@@ -80,7 +120,27 @@
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/ad-bypass/README.md",
       "created_at": "2026-06-12T01:44:09Z",
       "updated_at": "2026-06-21T19:31:19Z",
-      "official": false
+      "official": false,
+      "platforms": {
+        "windows-x86_64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2.zip",
+          "sha256": "e323031e2955afa803f4b545b4a1e6855e81790badb53c09fdb687c8dccf8bfb",
+          "size": 1157592,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2.zip.minisig"
+        },
+        "macos-aarch64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2-macos-aarch64.zip",
+          "sha256": "f7fc703f566929e09b9ce58058f089acd7832322c058933c3b9f4875a7b486ef",
+          "size": 2143874,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2-macos-aarch64.zip.minisig"
+        },
+        "macos-x86_64": {
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2-macos-aarch64.zip",
+          "sha256": "f7fc703f566929e09b9ce58058f089acd7832322c058933c3b9f4875a7b486ef",
+          "size": 2143874,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.3.2/community.ad-bypass-0.3.2-macos-aarch64.zip.minisig"
+        }
+      }
     }
   ]
 }
