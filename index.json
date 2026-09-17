@@ -4,7 +4,7 @@
   "operator": "StreamNook",
   "operator_pubkey": "RWQjpDWje0/OzmnUXUjak7pAGJnNdqpz30FLjHzeTX8cP+rS8i5HCyvy",
   "previous_operator_pubkeys": [],
-  "generated_at": "2026-09-17T01:20:00Z",
+  "generated_at": "2026-09-17T01:35:00Z",
   "plugins": [
     {
       "id": "community.drops-farmer",
@@ -100,45 +100,45 @@
     {
       "id": "community.ad-bypass",
       "name": "Ad-Free Playback",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "tier": "C",
-      "description": "Resolves live streams for ad-free viewing, through shared community relays or an HTTP proxy of your own, in whichever order you prefer. Filters leaked ads through its own relay, restores 1440p+ tiers, and checks each source for reachability and where it comes out.",
+      "description": "Resolves live streams for ad-free viewing, through shared relays or an HTTP proxy of your own, in the order you prefer. Filters leaked ads through its own relay and restores 1440p+ tiers.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "7.8.6",
-      "released_at": "2026-09-17T01:20:00Z",
+      "released_at": "2026-09-17T01:35:00Z",
       "author": {
         "name": "community",
         "pubkey": "RWTwrWNuOdC0JCx8Adg29yeoFma98h3YQwjqTydbPLvIgRfchr7t2XsX",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0.zip",
-        "sha256": "24a623a55a714ebf02281a01002907003e5899bf1f174c42ef79d73f1a79caad",
-        "size": 1249544,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-windows-x86_64.zip",
+        "sha256": "574a3d004240558c97cc90e2fd2aca9775f2a7553136d1e811d772263cc88505",
+        "size": 1176195,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-windows-x86_64.zip.minisig"
       },
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/ad-bypass/README.md",
       "created_at": "2026-06-12T01:44:09Z",
-      "updated_at": "2026-09-17T01:20:00Z",
+      "updated_at": "2026-09-17T01:35:00Z",
       "official": false,
       "platforms": {
         "windows-x86_64": {
-          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0.zip",
-          "sha256": "24a623a55a714ebf02281a01002907003e5899bf1f174c42ef79d73f1a79caad",
-          "size": 1249544,
-          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0.zip.minisig"
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-windows-x86_64.zip",
+          "sha256": "574a3d004240558c97cc90e2fd2aca9775f2a7553136d1e811d772263cc88505",
+          "size": 1176195,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-windows-x86_64.zip.minisig"
         },
         "macos-aarch64": {
-          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0-macos-aarch64.zip",
-          "sha256": "b12f42e68cb5e1c35e8197bdc01ecd585801c806dabcdbc3eaafcc0dfd927e84",
-          "size": 2290442,
-          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0-macos-aarch64.zip.minisig"
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-macos-aarch64.zip",
+          "sha256": "e48926f5b8fbc131957a7196b08125eae4c93718caf162312bfc3fda335e09ba",
+          "size": 2290928,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-macos-aarch64.zip.minisig"
         },
         "macos-x86_64": {
-          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0-macos-aarch64.zip",
-          "sha256": "b12f42e68cb5e1c35e8197bdc01ecd585801c806dabcdbc3eaafcc0dfd927e84",
-          "size": 2290442,
-          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.0/community.ad-bypass-0.4.0-macos-aarch64.zip.minisig"
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-macos-aarch64.zip",
+          "sha256": "e48926f5b8fbc131957a7196b08125eae4c93718caf162312bfc3fda335e09ba",
+          "size": 2290928,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.1/community.ad-bypass-0.4.1-macos-aarch64.zip.minisig"
         }
       }
     }
