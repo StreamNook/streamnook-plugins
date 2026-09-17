@@ -55,7 +55,10 @@ cards:
 - **Sources:** everything the plugin can use, with a health dot, where it comes
   out, and its verdict. One field adds a new source, with a switch picking
   whether it is a v1 relay or a v2 proxy; hovering either half lists the formats
-  it accepts.
+  it accepts. Each row's **Use** puts that source first, and reads back the one
+  in force: a relay is pinned ahead of the pool, and a proxy moves to the front
+  of the proxy list and switches the order to proxies before relays, which are
+  the two settings that together decide whether a proxy is reached at all.
 
 Relays and proxies are checked differently, because "working" means different
 things for each. A relay is probed for reachability and ranked on latency. A
