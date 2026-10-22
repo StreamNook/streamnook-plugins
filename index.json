@@ -9,46 +9,46 @@
     {
       "id": "community.drops-farmer",
       "name": "Autopilot",
-      "version": "0.5.5",
+      "version": "0.5.6",
       "tier": "C",
       "description": "Tracks drops and channel-point progress on your followed channels in the background.",
       "homepage": "https://github.com/StreamNook/streamnook-plugins",
       "host_min": "8.8.0",
-      "released_at": "2026-10-16T00:22:27Z",
+      "released_at": "2026-10-22T02:01:49Z",
       "author": {
         "name": "StreamNook",
         "pubkey": "RWTaM2XIUzmL/AR9Ni0vr5j7eFoF3y+nlh3r3amS2K0l8i8gekYgSdca",
         "previous_pubkeys": []
       },
       "artifact": {
-        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5.zip",
-        "sha256": "56122eadddf0befca5fbe459c159d52c2ea6fcc37f89116335536ec4940e16ae",
-        "size": 1297967,
-        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5.zip.minisig"
+        "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6.zip",
+        "sha256": "787945bdcce95c36973b1f61f5b96beb83413d4ebc3532f1479cd235a514a00d",
+        "size": 1334450,
+        "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6.zip.minisig"
       },
       "icon_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/icon.png",
       "readme_url": "https://raw.githubusercontent.com/StreamNook/streamnook-plugins/main/plugins/drops-farmer/README.md",
       "created_at": "2026-06-11T20:35:01Z",
-      "updated_at": "2026-10-16T00:22:27Z",
+      "updated_at": "2026-10-22T02:01:49Z",
       "official": true,
       "platforms": {
         "windows-x86_64": {
-          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5.zip",
-          "sha256": "56122eadddf0befca5fbe459c159d52c2ea6fcc37f89116335536ec4940e16ae",
-          "size": 1297967,
-          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5.zip.minisig"
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6.zip",
+          "sha256": "787945bdcce95c36973b1f61f5b96beb83413d4ebc3532f1479cd235a514a00d",
+          "size": 1334450,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6.zip.minisig"
         },
         "macos-aarch64": {
-          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5-macos-aarch64.zip",
-          "sha256": "40c6512d2732bd172ae8e670ec70604ea6422b307b0a6cfeb6722c24aabe1f75",
-          "size": 2377599,
-          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5-macos-aarch64.zip.minisig"
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6-macos-aarch64.zip",
+          "sha256": "6ae13486a2ee05801c1ab214688e47b41c88296386ab4f44cadf486a4b485bf8",
+          "size": 2436564,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6-macos-aarch64.zip.minisig"
         },
         "macos-x86_64": {
-          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5-macos-aarch64.zip",
-          "sha256": "40c6512d2732bd172ae8e670ec70604ea6422b307b0a6cfeb6722c24aabe1f75",
-          "size": 2377599,
-          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.5/community.drops-farmer-0.5.5-macos-aarch64.zip.minisig"
+          "url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6-macos-aarch64.zip",
+          "sha256": "6ae13486a2ee05801c1ab214688e47b41c88296386ab4f44cadf486a4b485bf8",
+          "size": 2436564,
+          "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/drops-farmer-v0.5.6/community.drops-farmer-0.5.6-macos-aarch64.zip.minisig"
         }
       }
     },
