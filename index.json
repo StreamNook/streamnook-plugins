@@ -141,6 +141,36 @@
           "signature_url": "https://github.com/StreamNook/streamnook-plugins/releases/download/ad-bypass-v0.4.4/community.ad-bypass-0.4.4-macos-aarch64.zip.minisig"
         }
       }
+    },
+    {
+      "id": "community.mrcool-888.stream-search",
+      "name": "Stream Search",
+      "version": "1.1.1",
+      "tier": "A",
+      "description": "Search for streams from the title bar while watching. Open the full results page or jump to a creator's channel.",
+      "homepage": "https://github.com/MrCool-888/streamnook-stream-search",
+      "host_min": "8.9.4",
+      "released_at": "2026-11-27T20:07:33Z",
+      "author": {
+        "name": "MrCool-888",
+        "pubkey": "RWTHVfdEhGoZoOJN0J7AvfZ4qn34zI7oB1/BsEZurl2R92wRzwr+BoMY"
+      },
+      "artifact": {
+        "url": "https://github.com/MrCool-888/streamnook-stream-search/releases/download/v1.1.1/community.mrcool-888.stream-search-1.1.1.zip",
+        "sha256": "6dfb06f5c9f34c1e793a8eb43b9a0561f5445a2aea6c75c4732c8bb56e1ad501",
+        "size": 8925,
+        "signature_url": "https://github.com/MrCool-888/streamnook-stream-search/releases/download/v1.1.1/community.mrcool-888.stream-search-1.1.1.zip.minisig"
+      },
+      "platforms": {
+        "windows-x86_64": {
+          "url": "https://github.com/MrCool-888/streamnook-stream-search/releases/download/v1.1.1/community.mrcool-888.stream-search-1.1.1.zip",
+          "sha256": "6dfb06f5c9f34c1e793a8eb43b9a0561f5445a2aea6c75c4732c8bb56e1ad501",
+          "size": 8925,
+          "signature_url": "https://github.com/MrCool-888/streamnook-stream-search/releases/download/v1.1.1/community.mrcool-888.stream-search-1.1.1.zip.minisig"
+        }
+      },
+      "icon_url": "https://raw.githubusercontent.com/MrCool-888/streamnook-stream-search/v1.1.1/icon.png",
+      "readme_url": "https://raw.githubusercontent.com/MrCool-888/streamnook-stream-search/v1.1.1/README.md"
     }
   ]
 }
